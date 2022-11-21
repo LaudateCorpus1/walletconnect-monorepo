@@ -37,7 +37,7 @@
     "clientv1": "npm:@walletconnect/client@^1.4.1",
     "clientv2": "npm:@walletconnect/client@^2.0.0-beta.1",
     "enc-utils": "^3.0.0",
-    "fastify": "^3.10.1",
+    "fastify": "^3.29.4",
     "fastify-helmet": "^5.1.0",
     "pino": "^6.11.0",
     "pino-pretty": "^4.3.0",
